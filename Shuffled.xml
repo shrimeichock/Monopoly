@@ -1,0 +1,150 @@
+<Board>
+    <versionName>Shuffled</versionName>
+    <currency>$</currency>
+    <Squares>
+        <BlankSquare>
+            <name>GO</name>
+        </BlankSquare>
+        <Property>
+            <name>Pennsylvania Avenue</name>
+            <price>320</price>
+            <ColourGroups>GREEN</ColourGroups>
+        </Property>
+        <Property>
+            <name>Park Place</name>
+            <price>350</price>
+            <ColourGroups>BLUE</ColourGroups>
+        </Property>
+        <BlankSquare>
+            <name>Income Tax</name>
+        </BlankSquare>
+        <Property>
+            <name>Boardwalk</name>
+            <price>400</price>
+            <ColourGroups>BLUE</ColourGroups>
+        </Property>
+        <Property>
+            <name>St. Charles Place</name>
+            <price>140</price>
+            <ColourGroups>PINK</ColourGroups>
+        </Property>
+        <Property>
+            <name>Connecticut Avenue</name>
+            <price>120</price>
+            <ColourGroups>GREY</ColourGroups>
+        </Property>
+        <Railroad>
+            <name>Short Line Railroad</name>
+        </Railroad>
+        <Property>
+            <name>Baltic Avenue</name>
+            <price>60</price>
+            <ColourGroups>BROWN</ColourGroups>
+        </Property>
+        <Utility>
+            <name>Water Works</name>
+        </Utility>
+        <Property>
+            <name>States Avenue</name>
+            <price>140</price>
+            <ColourGroups>PINK</ColourGroups>
+        </Property>
+        <Property>
+            <name>Tennessee Avenue</name>
+            <price>180</price>
+            <ColourGroups>ORANGE</ColourGroups>
+        </Property>
+        <Property>
+            <name>Atlantic Avenue</name>
+            <price>260</price>
+            <ColourGroups>YELLOW</ColourGroups>
+        </Property>
+        <Railroad>
+            <name>Pennsylvania Railroad</name>
+        </Railroad>
+        <Property>
+            <name>Virginia Avenue</name>
+            <price>160</price>
+            <ColourGroups>PINK</ColourGroups>
+        </Property>
+        <Property>
+            <name>Oriental Avenue</name>
+            <price>100</price>
+            <ColourGroups>GREY</ColourGroups>
+        </Property>
+        <BlankSquare>
+            <name>Go to Jail</name>
+        </BlankSquare>
+        <Property>
+            <name>Pacific Avenue</name>
+            <price>300</price>
+            <ColourGroups>GREEN</ColourGroups>
+        </Property>
+        <Property>
+            <name>Ventnor Avenue</name>
+            <price>260</price>
+            <ColourGroups>YELLOW</ColourGroups>
+        </Property>
+        <Property>
+            <name>Illinois Avenue</name>
+            <price>240</price>
+            <ColourGroups>RED</ColourGroups>
+        </Property>
+        <Railroad>
+            <name>B. and O. Railroad</name>
+        </Railroad>
+        <Property>
+            <name>St. James Place</name>
+            <price>180</price>
+            <ColourGroups>ORANGE</ColourGroups>
+        </Property>
+        <Property>
+            <name>Indiana Avenue</name>
+            <price>220</price>
+            <ColourGroups>RED</ColourGroups>
+        </Property>
+        <Utility>
+            <name>Electric Company</name>
+        </Utility>
+        <Property>
+            <name>Marvin Gardens</name>
+            <price>280</price>
+            <ColourGroups>YELLOW</ColourGroups>
+        </Property>
+        <BlankSquare>
+            <name>Free Parking</name>
+        </BlankSquare>
+        <Jail></Jail>
+        <Property>
+            <name>North Carolina Avenue</name>
+            <price>300</price>
+            <ColourGroups>GREEN</ColourGroups>
+        </Property>
+        <Railroad>
+            <name>Reading Railroad</name>
+        </Railroad>
+        <Property>
+            <name>Vermont Avenue</name>
+            <price>100</price>
+            <ColourGroups>GREY</ColourGroups>
+        </Property>
+        <Property>
+            <name>New York Avenue</name>
+            <price>200</price>
+            <ColourGroups>ORANGE</ColourGroups>
+        </Property>
+        <BlankSquare>
+            <name>Luxury Tax</name>
+        </BlankSquare>
+        <Property>
+            <name>Kentucky Avenue</name>
+            <price>220</price>
+            <ColourGroups>RED</ColourGroups>
+        </Property>
+        <Property>
+            <name>Mediterranean Avenue</name>
+            <price>60</price>
+            <ColourGroups>BROWN</ColourGroups>
+        </Property>
+    </Squares>
+</Board>

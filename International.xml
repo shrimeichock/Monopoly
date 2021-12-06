@@ -1,0 +1,150 @@
+<Board>
+    <versionName>International</versionName>
+    <currency>£</currency>
+    <Squares>
+        <BlankSquare>
+            <name>GO</name>
+        </BlankSquare>
+        <Property>
+            <name>Old Kent Road</name>
+            <price>70</price>
+            <ColourGroups>BROWN</ColourGroups>
+        </Property>
+        <Property>
+            <name>Whitechapel Road</name>
+            <price>70</price>
+            <ColourGroups>BROWN</ColourGroups>
+        </Property>
+        <BlankSquare>
+            <name>Income Tax</name>
+        </BlankSquare>
+        <Railroad>
+            <name>Kingcross Station</name>
+        </Railroad>
+        <Property>
+            <name>The Angel Islington</name>
+            <price>110</price>
+            <ColourGroups>GREY</ColourGroups>
+        </Property>
+        <Property>
+            <name>Euston Road</name>
+            <price>110</price>
+            <ColourGroups>GREY</ColourGroups>
+        </Property>
+        <Property>
+            <name>Pentonville Road</name>
+            <price>130</price>
+            <ColourGroups>GREY</ColourGroups>
+        </Property>
+        <Jail></Jail>
+        <Property>
+            <name>Pall Mall</name>
+            <price>150</price>
+            <ColourGroups>PINK</ColourGroups>
+        </Property>
+        <Utility>
+            <name>Electric Company</name>
+        </Utility>
+        <Property>
+            <name>Whitehall</name>
+            <price>150</price>
+            <ColourGroups>PINK</ColourGroups>
+        </Property>
+        <Property>
+            <name>Northumrl'd Avenue</name>
+            <price>170</price>
+            <ColourGroups>PINK</ColourGroups>
+        </Property>
+        <Railroad>
+            <name>Marylebone Station</name>
+        </Railroad>
+        <Property>
+            <name>Bow Street</name>
+            <price>190</price>
+            <ColourGroups>ORANGE</ColourGroups>
+        </Property>
+        <Property>
+            <name>Marlborough Street</name>
+            <price>190</price>
+            <ColourGroups>ORANGE</ColourGroups>
+        </Property>
+        <Property>
+            <name>Vine Street</name>
+            <price>210</price>
+            <ColourGroups>ORANGE</ColourGroups>
+        </Property>
+        <BlankSquare>
+            <name>Free Parking</name>
+        </BlankSquare>
+        <Property>
+            <name>Strand</name>
+            <price>230</price>
+            <ColourGroups>RED</ColourGroups>
+        </Property>
+        <Property>
+            <name>Fleet Street</name>
+            <price>230</price>
+            <ColourGroups>RED</ColourGroups>
+        </Property>
+        <Property>
+            <name>Trafalgar Square</name>
+            <price>250</price>
+            <ColourGroups>RED</ColourGroups>
+        </Property>
+        <Railroad>
+            <name>Fenchurch St. Station</name>
+        </Railroad>
+        <Property>
+            <name>Leicester Square</name>
+            <price>270</price>
+            <ColourGroups>YELLOW</ColourGroups>
+        </Property>
+        <Property>
+            <name>Coventry Street</name>
+            <price>270</price>
+            <ColourGroups>YELLOW</ColourGroups>
+        </Property>
+        <Utility>
+            <name>Water Works</name>
+        </Utility>
+        <Property>
+            <name>Piccadilly</name>
+            <price>290</price>
+            <ColourGroups>YELLOW</ColourGroups>
+        </Property>
+        <BlankSquare>
+            <name>Go to Jail</name>
+        </BlankSquare>
+        <Property>
+            <name>Regent Street</name>
+            <price>310</price>
+            <ColourGroups>GREEN</ColourGroups>
+        </Property>
+        <Property>
+            <name>Oxford Street</name>
+            <price>310</price>
+            <ColourGroups>GREEN</ColourGroups>
+        </Property>
+        <Property>
+            <name>Bond Street</name>
+            <price>330</price>
+            <ColourGroups>GREEN</ColourGroups>
+        </Property>
+        <Railroad>
+            <name>Liverpool St. Station</name>
+        </Railroad>
+        <Property>
+            <name>Park Lane</name>
+            <price>360</price>
+            <ColourGroups>BLUE</ColourGroups>
+        </Property>
+        <BlankSquare>
+            <name>Luxury Tax</name>
+        </BlankSquare>
+        <Property>
+            <name>Mayfair</name>
+            <price>410</price>
+            <ColourGroups>BLUE</ColourGroups>
+        </Property>
+    </Squares>
+</Board>

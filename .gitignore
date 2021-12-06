@@ -1,0 +1,3 @@
+
+# ignore txt files created from serialization (for now)
+*.ser
