@@ -1,4 +1,4 @@
-# sysc-3110-project
+# Monopoly
 
 ## Installation and Usage:
 
