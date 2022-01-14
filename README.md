@@ -78,3 +78,7 @@
 * Shrimei Chock
 * Sabah Samwatin
 * Maisha Abdullah
+
+## Disclaimer
+
+This application was created for educational purposes only and is meant to simulate the Monopoly game. Allowance is made for “fair use” for purposes such as criticism, comment, news reporting, teaching, scholarship, education and research.
